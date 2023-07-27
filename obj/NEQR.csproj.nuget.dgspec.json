@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\myQuantumProject.csproj": {}
+    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\NEQR.csproj": {}
   },
   "projects": {
-    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\myQuantumProject.csproj": {
+    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\NEQR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\myQuantumProject.csproj",
-        "projectName": "myQuantumProject",
-        "projectPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\myQuantumProject.csproj",
+        "projectUniqueName": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\NEQR.csproj",
+        "projectName": "NEQR",
+        "projectPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\NEQR.csproj",
         "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\obj\\",
+        "outputPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,34 +40,45 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.1, )"
+            },
             "Microsoft.Quantum.CSharpGeneration": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[0.28.277227, )",
-              "autoReferenced": true
-            },
-            "Microsoft.Quantum.EntryPointDriver": {
-              "target": "Package",
-              "version": "[0.28.277227, )",
+              "version": "[0.28.263081, )",
               "autoReferenced": true
             },
             "Microsoft.Quantum.QSharp.Core": {
               "target": "Package",
-              "version": "[0.28.277227, )"
+              "version": "[0.28.263081, )"
             },
             "Microsoft.Quantum.Runtime.Core": {
               "target": "Package",
-              "version": "[0.28.277227, )",
+              "version": "[0.28.263081, )",
               "autoReferenced": true
             },
             "Microsoft.Quantum.Standard": {
               "target": "Package",
-              "version": "[0.28.277227, )"
+              "version": "[0.28.263081, )"
             },
             "Microsoft.Quantum.Targets.Interfaces": {
               "target": "Package",
-              "version": "[0.28.277227, )",
+              "version": "[0.28.263081, )",
               "autoReferenced": true
+            },
+            "Microsoft.Quantum.Xunit": {
+              "target": "Package",
+              "version": "[0.28.263081, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
             }
           },
           "imports": [

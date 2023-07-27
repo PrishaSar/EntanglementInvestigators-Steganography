@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\myQuantumProject.csproj": {}
+    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\myQuantumProject.csproj": {
+    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\myQuantumProject.csproj",
+        "projectUniqueName": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject.csproj",
         "projectName": "myQuantumProject",
-        "projectPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\myQuantumProject.csproj",
+        "projectPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject.csproj",
         "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myQuantumProject\\obj\\",
+        "outputPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config",

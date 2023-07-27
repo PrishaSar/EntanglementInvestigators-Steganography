@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\myApp.csproj": {}
+    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\myApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\myApp.csproj": {
+    "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\myApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\myApp.csproj",
+        "projectUniqueName": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\myApp.csproj",
         "projectName": "myApp",
-        "projectPath": "C:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\myApp.csproj",
+        "projectPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\myApp.csproj",
         "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\obj\\",
+        "outputPath": "c:\\Users\\marcu\\OneDrive\\Documents\\GitHub\\EntanglementInvestigators-Steganography\\myApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
